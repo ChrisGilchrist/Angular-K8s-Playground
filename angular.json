@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "k8s-experiment"
+    }
+  },
+  "defaultProject": "k8s-experiment",
+  "cli": {
+    "analytics": "4092206d-55e1-494d-8a8c-0c8bb0f8edcb"
+  }
 }

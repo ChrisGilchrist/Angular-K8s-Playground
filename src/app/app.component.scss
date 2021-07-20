@@ -1,0 +1,16 @@
+@import '../../node_modules/xterm/css/xterm.css';
+
+.page-container {
+    height: 99vh;
+    display: flex;
+    flex-direction: column;
+
+    .content {
+        background-color: red;
+        flex: 1;
+    }
+
+    .bottom-panel {
+        height: 400px;
+    }
+}
